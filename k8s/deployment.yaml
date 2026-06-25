@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: clo835-assignment2-app
-          image: jaydenhnguyen/clo835-assignment2:0.3
+          image: jaydenhnguyen/clo835-assignment2:0.2
           ports:
             - containerPort: 8080
           readinessProbe:

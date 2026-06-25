@@ -34,4 +34,3 @@ jobs:
           tags: |
             jaydenhnguyen/clo835-assignment2:${{ steps.version.outputs.version }}
             jaydenhnguyen/clo835-assignment2:${{ github.sha }}
-        
